@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Avanthika",
+  "author": "Mehdi Hassan Jony",
   "license": "ISC",
   "dependencies": {
     "uuid": "^9.0.1",
